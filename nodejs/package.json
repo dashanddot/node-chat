@@ -1,0 +1,20 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"@omarty/log-manager": "github:omarty/log-manager",
+		"@omarty/v-enum": "github:omarty/v-enum"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.7"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev-longpoll": "nodemon ./index-longpoll.js",
+		"dev-chat": "nodemon ./index-chat.js"
+	},
+	"author": "",
+	"license": "ISC"
+}

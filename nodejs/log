@@ -1,0 +1,33 @@
+[15-03-2021 00:37:36.757] [info ] [ChatServer] this._lpServer.listen : Server listening on 0.0.0.0:8777
+[15-03-2021 00:38:24.099] [info ] [ChatServer] this._lpServer.listen : Server listening on 0.0.0.0:8777
+[15-03-2021 00:39:49.596] [info ] [ChatServer] this._lpServer.listen : Server listening on 0.0.0.0:8777
+[15-03-2021 00:40:49.197] [info ] [ChatServer] this._lpServer.listen : Server listening on 0.0.0.0:8777
+[15-03-2021 00:40:49.682] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:50.183] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:50.684] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:51.185] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:51.684] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:52.184] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:52.685] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:53.186] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:53.686] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:54.187] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:54.688] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:55.188] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:55.688] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:56.188] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:56.687] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:57.187] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:57.688] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:58.189] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:58.689] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:59.188] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:40:59.689] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:00.188] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:00.688] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:01.189] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:01.688] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:02.188] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:02.689] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:03.189] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
+[15-03-2021 00:41:03.689] [trace] [MyClass::myInstance] myFunction : {"key1":"value1","key2":["val0","val1"]}
